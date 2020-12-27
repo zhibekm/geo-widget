@@ -8,6 +8,10 @@ Youtube video:
 
 Contacts: Zhibek.mukhtarbekova@iaau.edu.kg, +48510633305. Ziedillo.shakirov@iaau.edu.kg, +996550527377.
 
+Link to the web-site: http://localhost:3000 
+
+
+
 
 
 
