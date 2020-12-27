@@ -4,7 +4,7 @@ Project JS library called react.js.
 
 Team members: Zhibek Mukhtarbekova, Ziedillo Shakirov.
 
-Youtube video:
+Youtube video: https://youtu.be/Ese5IL-4NH8
 
 Contacts: Zhibek.mukhtarbekova@iaau.edu.kg, +48510633305. Ziedillo.shakirov@iaau.edu.kg, +996550527377.
 
