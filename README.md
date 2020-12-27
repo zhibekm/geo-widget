@@ -1,5 +1,13 @@
 *GEO-WIDGET WEB-SITE FINAL PROJECT OF FIRST SEMESTER OF 2020*
 
+Project JS library called react.js. 
+
+Team members: Zhibek Mukhtarbekova, Ziedillo Shakirov.
+
+Youtube video:
+
+Contacts: Zhibek.mukhtarbekova@iaau.edu.kg, +48510633305. Ziedillo.shakirov@iaau.edu.kg, +996550527377.
+
 
 
 
