@@ -10,6 +10,8 @@ Contacts: Zhibek.mukhtarbekova@iaau.edu.kg, +48510633305. Ziedillo.shakirov@iaau
 
 Link to the web-site: http://localhost:3000 
 
+Description: The final project on the subject of Web Technologies of the first semester of 2020, consisting in a site with map content and a search engine that is able to find various addressees. Written in js library called react.js
+
 
 
 
