@@ -12,6 +12,26 @@ Link to the web-site: http://localhost:3000
 
 Description: The final project on the subject of Web Technologies of the first semester of 2020, consisting in a site with map content and a search engine that is able to find various addressees. Written in js library called react.js
 
+Feedbacks:
+Aisuluu Arstanbaeva:
+"The site works quite well, it would be possible to add some updates such as other types of maps or an archive where previous requests would be saved."
+
+Dastan Asanov:
+"The site is convenient to use, the code is written simply and clearly. 
+If you want to change something in the interface, you can do it easily, since all the necessary codes are easy to find."
+
+Tilek Karaev:
+"I liked that on the site you can find different locations, not just streets or cities, but also continents. 
+In the code, everything is also clear and clean, although for me I would add more different icons to cities and streets."
+
+Pamirbek Almazbekov:
+"I drew attention to the design of the site and the selected colors, all in moderate tones, which allows the user to use the site without annoying color schemes. The site is local, 
+I would make it server-side so that others can come in and watch for themselves. The error function is well noticed if you do not enter anything into the search engine."
+
+Kairat Kypchakbaev:
+"A cool idea for the final project, and the code is understandable, in case someone wants to rewrite, I'm sure it will be possible to explain by showing the codes very easily. 
+In the description, everything is clearly written how to run the code, so there were no problems with this."
+
 <img src="https://github.com/zhibekm/geo-widget/blob/main/Screenshot%202020-12-27%20203344.png"/>
 
 
